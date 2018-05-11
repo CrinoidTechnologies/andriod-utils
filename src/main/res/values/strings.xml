@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">generalUtils</string>
+
+    <string name="info">Info</string>
+    <string name="about">About Us</string>
+    <string name="feedback">Feedback</string>
+    <string name="settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="i_am_in">I am in</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="Bug">Bug</string>
+    <string name="Help">Help</string>
+    <string name="choose_subject">Choose subject</string>
+    <string name="proceed">Proceed</string>
+    <string name="try_again">Try Again</string>
+    <string name="ok">Ok</string>
+    <string name="search">Search</string>
+
+
+    <string name="app_share_line">really awesome application</string>
+    <string name="share_app_exception">Unable to share</string>
+    <string name="share_app_title">Spread the word</string>
+    <string name="share_app_message">If you like this app, tell your friends. This help us to keep the app free from annoying ads. This really means lot to us.</string>
+    <string name="invite_with">Invite with</string>
+
+    <string name="no_browser">No application can handle this dbHelper. Please install a web browser</string>
+    <string name="no_app">No application available to handle dbHelper.</string>
+
+    <string name="app_rate_message">Your support has given us dream job and helps keep doing what we love.
+        \n\nPlease spare a moment to express your support and help us improve by rating app or leaving a comment on the Google Market.</string>
+    <string name="remind_me_later">Remind me later</string>
+    <string name="exit_app">Please click BACK again to exit\"</string>
+
+    <string name="slow_connection">Slow connection Detected</string>
+    <string name="network_issue">Network Issue</string>
+    <string name="unable_to_connect_with_server">Unable to connect with Server, Please try again.</string>
+    <string name="server_error">Server error occurred</string>
+    <string name="no_internet">No active internet connection available.</string>
+    <string name="no_internet_available">No internet available</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="no_item_to_show">No item to show</string>
+    <string name="nothing_here">Nothing here</string>
+    <string name="no_matching_item">No matching item</string>
+
+    <string name="need_permission">Need Permission</string>
+    <string name="send_mail_via">Send Mail via</string>
+    <string name="gps_network_not_enabled">Location service is disabled</string>
+    <string name="open_location_settings">Open location settings</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PagerDotsView">
+        <attr name="selectedDotColor" format="color" />
+        <attr name="unSelectedDotColor" format="color" />
+        <attr name="dotSize" format="dimension" />
+        <!--<attr name="labelPosition" format="enum">-->
+        <!--<enum name="left" value="0"/>-->
+        <!--<enum name="right" value="1"/>-->
+        <!--</attr>-->
+    </declare-styleable>
+
+    <declare-styleable name="ExpandableTextView">
+        <attr name="initialLines" format="integer" />
+        <attr name="moreEllipse" format="string" />
+        <attr name="lessEllipse" format="string" />
+    </declare-styleable>
+</resources>
