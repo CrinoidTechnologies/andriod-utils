@@ -1,0 +1,2 @@
+include ':app', ':generalUtils'
+project(':generalUtils').projectDir = new File('_generalUtils')
